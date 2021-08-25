@@ -1,107 +1,95 @@
 const help = (prefix) => {
 	return `
+_「By.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽」_
+         (҂`_´)
+         <,︻╦̵̵̿╤─ ҉     ~ •••••••           👨🏻‍🦯
+█۞███████]▄▄▄▄▄▄▄▄▄▄▃ ●●●
+▂▄▅█████████▅▄▃▂…
+[███████████████████]
+◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙
+*╚╩══• •✠•INFORMACIÓN•✠ • •══╩╝*
 
-⌜ *ѕнαηвσт ву ѕнαη∂υу* ⌟  
+ *○ COMANDO:* ⌜ ${prefix} ⌟
+ *○ GRUPO OFC:*☪⃟⚜⃝𝔸ℕ𝕀𝕄𝔼&𝕄𝔸𝕊⃝➳⃟♾
 
-◉ *INFORMACION*
-   ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: ѕнαη∂υу™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
+*PARA USAR EL BOT*
+_Registrate con el comando ${prefix}daftar y tu Nombre._
+ ┏━━━━━━━━━━━━━━━━━━━━ 
+ ┃ *┗━┅┅┄⟞⟦GRUPOS⟧⟝┄┉┉━┛*
+ ┣☛ ${prefix}closegc
+ ┃  ⊱Cerrar El Grupo.
+ ┣☛ ${prefix}opengc
+ ┃   ⊱Abrir El Grupo.
+ ┣☛ ${prefix}kickmenu
+ ┃   ⊱Eliminar A Un Participante.
+ ┣☛ ${prefix}promote
+ ┃   ⊱Dar Admin.
+ ┣☛ ${prefix}demote
+ ┃   ⊱Quitar Admin.
+ ┣☛ ${prefix}linkgc
+ ┃   ⊱Enlace Del Grupo.
+ ┣☛ ${prefix}adminlist
+ ┃   ⊱Nombra a L@s Admis Del Grupo.
+ ┣☛ ${prefix}todos
+ ┃   ⊱Nombra A Todos Los Integrantes Del Grupo.
+ ┣☛ ${prefix}antimenu
+ ┃   ⊱Antilink's.
+ ┣☛ ${prefix}levelmenu
+ ┃   ⊱Nivel Para Grupos.
+ ┣☛ ${prefix}welmenu
+ ┃   ⊱Menu De Bienvenida al grupo.
+ ┣☛ ${prefix}nsfwmenu
+ ┃    ⊱Menú De +18.
+ ┣━━━━━━━━━━━━━━━━━━━━ 
+ ┃ *┗━┅┅┄-⟞⟦OTROS⟧⟝-┄┉┉━┛*
+ ┣☛ ${prefix}juegos
+ ┃   ⊱Menú De Juegos.
+ ┣☛ ${prefix}desmenu
+ ┃   ⊱Menu De Descargas.
+ ┣☛ ${prefix}version
+ ┃   ⊱Versión Del Bot.
+ ┣☛ ${prefix}otak
+ ┃   ⊱Monas Chinas.
+ ┣☛ ${prefix}shantera
+ ┃   ⊱Habla Con El Bot.
+ ┣☛ ${prefix}wame
+ ┃   ⊱Link De Tu Whatsapp.
+ ┣☛ ${prefix}qrcode
+ ┃   ⊱Convertir Texto A Código QR.
+ ┣━━━━━━━━━━━━━━━━━━━━ 
+ ┃ *┗━..┄⟞⟦CREAR STICKERS⟧⟝.┄┛*
+ ┣☛ ${prefix}sticker
+ ┣☛ ${prefix}attp
+ ┃    ⊱Mas un texto corto.
+ ┣☛ ${prefix}stickergif
+ ┃    ⊱6 segundos de video.
+ ┣━━━━━━━━━━━━━━━━━━━━ 
+ ┃ *┗━--⟞⟦CONVERTIDORES⟧⟝┉.━┛*
+ ┣☛ ${prefix}toimg
+ ┃    ⊱De Sticker a Imagen.
+ ┣☛ ${prefix}tomp3
+ ┃    ⊱De video a MP3.
+ ┣━━━━━━━━━━━━━━━━━━━━ 
+ ┃ *┗━┅=┅┄⟞⟦AUDIO⟧⟝┄=┉┉━┛*
+ ┣☛ ${prefix}idioma
+ ┣☛ ${prefix}tts es más el texto.
+ ╰━━━━━━━━━━━━━━━━━━━━
+NOTAS.
+➢No escribas al Pv del Bot.
 
+➢Para que el bot cumpla algunas funciones necesita ser Admin.
 
-◉ *NUEVOS COMANDOS*
-○ ${prefix}banmenu
-Banear a personas el uso del bot
-○ ${prefix}levelmenu
-Level para tus grupos
-○ ${prefix}antimenu
-Su nombre lo dice todo (antilink)
-○ ${prefix}otak
-Monas chinas
-○ ${prefix}shantera
-Interactua con el bot
+➢No Hagas spam la concha de tu madre, si no responde rápido espera. ;)
 
-◉ *NUEVOS MENUS*
-○ ${prefix}juegos
-Diviértete con tus amigos :)
-○ ${prefix}desmenu
-Descargar musica ( videos próximamente )
-○ ${prefix}version
-Conoce la versión de tu bot
-○ ${prefix}welmenu
-Comando de bienvenida solo grupos
+➢No entres al grupo ofc a enviar tu enlace no seas Gil(a).
 
-◉ *PARA USAR EL BOT*
-Registrate con el comando ${prefix}daftar y tu nombre
+➢Si quieres que el bot esté en tu grupo no hay problema manda mensaje al pv de Jiren. wa.me/+524591347471.
 
-◉ *RESUELVE TUS DUDAS*
-  ║
-  ╠ ○ ${prefix}creador
-  ╚ Dudas o problemas aqui
+*By.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽*
 
-◉ *CREAR STICKERS*
-  ║
-  ╠ ○ ${prefix}sticker
-  ╠ ○ ${prefix}attp
-  ╠ Mas un texto corto
-  ╠ ○ ${prefix}stickergif
-  ╚ 6 segundos de video
-
-◉ *CONVERTIDORES*
-  ║
-  ╠ ○ ${prefix}toimg
-  ╠ De sticker a JPG
-  ╠ ○ ${prefix}tomp3
-  ╚ De video a MP3
-
-◉ *AUDIO*
-  ║
-  ╠ ○ ${prefix}idioma
-  ╚ ○ ${prefix}tts es (mas texto)
-
-◉ *OTROS*
-  ║
-  ╠ ○ ${prefix}wame
-  ╠ Link de Whatsapp
-  ╠ ○ ${prefix}qrcode
-  ╚ Coloca un texto
-
-◉ *GRUPOS*
-  ║
-  ╠ ○ ${prefix}closegc
-  ╠ Cerrar el grupo solo admins
-  ╠ ○ ${prefix}opengc
-  ╠ Abrir grupo solo admins
-  ╠ ○ ${prefix}kickmenu
-  ╠ Eliminar a un miembro 
-  ╠ ○ ${prefix}promote
-  ╠ Dar admin a un miembro
-  ╠ ○ ${prefix}demote
-  ╠ Quitar el admin
-  ╠ ○ ${prefix}linkgc
-  ╠ Link del grupo
-  ╠ ○ ${prefix}adminlist
-  ╠ Nombra a los admins del grupo
-  ╠ ○ ${prefix}todos
-  ╚ Nombra a todos los del grupo
-
-Para usar estas funciones el bot necesita admin
-  
-◉ *NSWF* 
-  ║
-  ╚ ○ ${prefix}nsfwmenu
-
-Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desactivar los NSFW coloque ${prefix}nsfw 0
-
-
-No te olvides de seguirme en instagram flaco ;)
-
-
-ву ѕнαη∂υу
-
-
-⌜ *ごきげんよう :)* ⌟ 
+♡━━━━━━━━━━━━♡━━━━━━━━━━━♡
+*⌜🔥♥️Te Amo Wendy♥️🔥, Eres mi complemento Perfecto, Llegaste de la nada y te convertiste en mi todo👩‍❤️‍👨♡My Lady♡⌟*
+♡━━━━━━━━━━━━♡━━━━━━━━━━━♡
 `
 }
 
